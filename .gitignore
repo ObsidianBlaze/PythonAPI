@@ -1,0 +1,8 @@
+
+*.xml
+*.jar
+Osas/lib/nblibraries.properties
+Osas/manifest.mf
+Osas/nbproject/genfiles.properties
+Osas/nbproject/private/private.properties
+Osas/nbproject/project.properties
